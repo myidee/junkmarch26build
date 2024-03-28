@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/junkmarch26/static/css/main.5a31e55e.css",
+    "main.js": "/junkmarch26/static/js/main.5f88b838.js",
+    "index.html": "/junkmarch26/index.html",
+    "main.5a31e55e.css.map": "/junkmarch26/static/css/main.5a31e55e.css.map",
+    "main.5f88b838.js.map": "/junkmarch26/static/js/main.5f88b838.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a31e55e.css",
+    "static/js/main.5f88b838.js"
+  ]
+}
